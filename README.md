@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Alex</h1>
 <h3 align="center">I'm a Full-Stack Engineer from Atlanta</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sugaminni" alt="sugaminni" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/sugaminnii" target="blank"><img src="https://img.shields.io/twitter/follow/sugaminnii?logo=twitter&style=for-the-badge" alt="sugaminnii" /></a> </p>
-
 - 🔭 I’m currently working on [A Smart Task Manager For Students](https://github.com/Sugaminni/Task-Manager)
 
 - 🌱 I’m currently learning **Swift/SwiftUI and C**
