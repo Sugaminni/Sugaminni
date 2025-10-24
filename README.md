@@ -5,9 +5,7 @@
 
 - 🌱 I’m currently learning **Swift/SwiftUI and C**
 
-- 👨‍💻 All of my projects are available at [https://alexhonglu.tech/](https://alexhonglu.tech/)
-
-- 📫 How to reach me **Alexhonglu@gmail.com**
+- 📫 How to reach me **AlexRLu@outlook.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/alexhonglu/](https://www.linkedin.com/in/alexhonglu/)
 
